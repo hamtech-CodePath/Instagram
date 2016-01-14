@@ -4,6 +4,5 @@
 # use_frameworks!
 
 target 'Instagram_HAM' do
-
+  pod 'AFNetworking'
 end
-
