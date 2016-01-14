@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		47ABA0DD1C4862FA002A4366 /* PostCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47ABA0DC1C4862FA002A4366 /* PostCollectionViewCell.swift */; };
 		47DAD4E91C45BEAF00BD608B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DAD4E81C45BEAF00BD608B /* AppDelegate.swift */; };
 		47DAD4EB1C45BEAF00BD608B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47DAD4EA1C45BEAF00BD608B /* ViewController.swift */; };
 		47DAD4EE1C45BEAF00BD608B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 47DAD4EC1C45BEAF00BD608B /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		47ABA0DC1C4862FA002A4366 /* PostCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostCollectionViewCell.swift; sourceTree = "<group>"; };
 		47DAD4E51C45BEAF00BD608B /* Instagram_HAM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram_HAM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		47DAD4E81C45BEAF00BD608B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47DAD4EA1C45BEAF00BD608B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				47DAD4E81C45BEAF00BD608B /* AppDelegate.swift */,
 				47DAD4EA1C45BEAF00BD608B /* ViewController.swift */,
 				47DAD4EC1C45BEAF00BD608B /* Main.storyboard */,
+				47ABA0DC1C4862FA002A4366 /* PostCollectionViewCell.swift */,
 				47DAD4F21C45BEAF00BD608B /* Assets.xcassets */,
 				47DAD4F41C45BEAF00BD608B /* LaunchScreen.storyboard */,
 				47DAD4F71C45BEAF00BD608B /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				47ABA0DD1C4862FA002A4366 /* PostCollectionViewCell.swift in Sources */,
 				47DAD4F11C45BEAF00BD608B /* Instagram_HAM.xcdatamodeld in Sources */,
 				47DAD4EB1C45BEAF00BD608B /* ViewController.swift in Sources */,
 				47DAD4E91C45BEAF00BD608B /* AppDelegate.swift in Sources */,
@@ -290,6 +294,7 @@
 				47DAD4FC1C45BEAF00BD608B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
